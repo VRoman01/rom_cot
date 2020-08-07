@@ -1,2 +1,2 @@
-# rom_cot
+# rom_kot
 our first attempt
